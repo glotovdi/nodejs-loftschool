@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-school",
+  "version": "1.0.0",
+  "description": "Loftschool-nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node homework-1/index.js"
+  },
+  "author": "glotovdi@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "rimraf": "^3.0.0"
+  }
+}
